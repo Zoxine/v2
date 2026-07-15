@@ -10,4 +10,12 @@ __pycache__/
 .env
 .env.*
 
+# Go agent config (contains secrets)
+config.yaml
+
+# Built binary
+/v2
+
 *.db
+
+tmp/
