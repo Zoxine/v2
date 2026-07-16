@@ -53,7 +53,7 @@ jobs:
       - name: Commit and push files
         uses: EndBug/add-and-commit@v7
         with:
-          push: "https://github.com/MatinGhanbari/v2ray-configs.git"
+          push: "https://github.com/zoxine/v2.git"
           message: "${{ steps.emoji.outputs.emoji }} [${{ steps.date.outputs.date }}] Update v2ray configs"
           author_email: "actions@github.com"
           author_name: "Github Actions"
@@ -78,7 +78,7 @@ jobs:
       # - name: Commit and push files
       #   uses: EndBug/add-and-commit@v7
       #   with:
-      #     push: "https://github.com/MatinGhanbari/v2ray-configs.git"
+      #     push: "https://github.com/zoxine/v2.git"
       #     message: "Update v2ray configs"
       #     author_email: "actions@github.com"
       #     author_name: "Github Actions"
