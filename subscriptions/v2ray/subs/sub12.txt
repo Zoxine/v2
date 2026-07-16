@@ -1,7 +1,7 @@
 #profile-title: base64:8J+GkyBHaXRIdWI6TWF0aW5HaGFuYWJyaSB8IFN1YjEy
 #subscription-userinfo: upload=30; download=30; total=10737418240000000; expire=2546249531
-#profile-web-page-url: https://github.com/MatinGhanbari/v2ray-configs
-#support-url: https://github.com/MatinGhanbari/v2ray-configs
+#profile-web-page-url: https://github.com/zoxine/v2
+#support-url: https://github.com/zoxine/v2
 #profile-update-interval: 1
 vless://07865379-86dd-4ca6-ad22-81255519c482@104.26.1.117:2083?security=tls&sni=vipv2rey.mamare.ir&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.1.117:2083
 vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@108.162.193.10:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.193.10:443

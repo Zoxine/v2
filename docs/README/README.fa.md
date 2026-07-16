@@ -1,9 +1,9 @@
 # 🔓 پیکربندی‌های رایگان V2ray برای همه
 🖥️ مخزن جامعه‌نگهداری شده که پیکربندی‌های رایگان V2ray را برای مرور ایمن و خصوصی ارائه می‌دهد.
 
-[English](https://github.com/MatinGhanbari/v2ray-configs/blob/main/README.md) | [中文](https://github.com/MatinGhanbari/v2ray-configs/blob/main/docs/README/README.zh.md)
+[English](https://github.com/zoxine/v2/blob/main/README.md) | [中文](https://github.com/zoxine/v2/blob/main/docs/README/README.zh.md)
 
-[![Stars](https://img.shields.io/github/stars/MatinGhanbari/v2ray-configs?style=flat-square)](https://github.com/MatinGhanbari/v2ray-configs/stargazers)
+[![Stars](https://img.shields.io/github/stars/MatinGhanbari/v2ray-configs?style=flat-square)](https://github.com/zoxine/v2/stargazers)
 ![Last Updated](https://img.shields.io/github/last-commit/MatinGhanbari/v2ray-configs?style=flat-square) [![MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://lbesson.mit-license.org/) ![Size](https://img.shields.io/github/repo-size/MatinGhanbari/v2ray-configs?style=flat-square)
 
 ## ✨ ویژگی‌های کلیدی
@@ -32,31 +32,31 @@ https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions
 ```
 
 ### ⛓️ اشتراک‌های بر اساس پروتکل
-- VMess: 
+- VMess:
 ```
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/vmess.txt
 ```
-- VLess: 
+- VLess:
 ```
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/vless.txt
 ```
-- Trojan: 
+- Trojan:
 ```
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/trojan.txt
 ```
-- SSR: 
+- SSR:
 ```
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/ssr.txt
 ```
-- SS: 
+- SS:
 ```
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/vmess.txt
 ```
-- Tuic: 
+- Tuic:
 ```
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/tuic.txt
 ```
-- Hy2: 
+- Hy2:
 ```
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/hy2.txt
 ```

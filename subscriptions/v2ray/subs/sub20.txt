@@ -1,7 +1,7 @@
 #profile-title: base64:8J+GkyBHaXRIdWI6TWF0aW5HaGFuYWJyaSB8IFN1YjIw
 #subscription-userinfo: upload=30; download=30; total=10737418240000000; expire=2546249531
-#profile-web-page-url: https://github.com/MatinGhanbari/v2ray-configs
-#support-url: https://github.com/MatinGhanbari/v2ray-configs
+#profile-web-page-url: https://github.com/zoxine/v2
+#support-url: https://github.com/zoxine/v2
 #profile-update-interval: 1
 vless://0791e547-9191-4981-8b38-3d490c2b41d5@37.27.191.27:1521?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-37.27.191.27:1521
 vless://a89981b0-8096-4bbc-8d24-da2330650c4b@168.138.165.174:443?security=tls&sni=sgp.cayuo.me&type=ws&host=sgp.cayuo.me&path=%2Fbing#🔒 VL-WS-TLS 🇸🇬 SG-168.138.165.174:443

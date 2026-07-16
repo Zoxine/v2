@@ -1,7 +1,7 @@
 #profile-title: base64:8J+GkyBHaXRIdWI6TWF0aW5HaGFuYWJyaSB8IFN1YjE4
 #subscription-userinfo: upload=30; download=30; total=10737418240000000; expire=2546249531
-#profile-web-page-url: https://github.com/MatinGhanbari/v2ray-configs
-#support-url: https://github.com/MatinGhanbari/v2ray-configs
+#profile-web-page-url: https://github.com/zoxine/v2
+#support-url: https://github.com/zoxine/v2
 #profile-update-interval: 1
 vless://1688039e-a45f-499e-b9f4-c098c87d3b32@108.162.196.159:443?security=tls&sni=cr7777.rayan.dpdns.org&type=ws&host=cr7777.rayan.dpdns.org&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.196.159:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.60:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.60:80

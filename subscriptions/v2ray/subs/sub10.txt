@@ -1,7 +1,7 @@
 #profile-title: base64:8J+GkyBHaXRIdWI6TWF0aW5HaGFuYWJyaSB8IFN1YjEw
 #subscription-userinfo: upload=30; download=30; total=10737418240000000; expire=2546249531
-#profile-web-page-url: https://github.com/MatinGhanbari/v2ray-configs
-#support-url: https://github.com/MatinGhanbari/v2ray-configs
+#profile-web-page-url: https://github.com/zoxine/v2
+#support-url: https://github.com/zoxine/v2
 #profile-update-interval: 1
 vless://3463166c-8939-4d3f-b439-ad2606e5715c@146.75.82.133:80?type=xhttp&host=joinbede_vmessorg.ir&path=%2F%40v%6de%73s%6frg----%40v%6de%73s%6frg-----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg%3Fed%3D2480#🔒 VL-XHTTP-NA 🇺🇸 US-146.75.82.133:80
 vless://b78a744f-bd8a-4ff4-971a-985efb3ec6a5@185.146.173.94:8880?security=none&type=ws&host=942.V2ray.debian.org.fxp.debian.org.speedtest.nEt.%D9%85%DB%8C%D9%86-%D9%88%DB%8C%D8%AA%D9%88%D8%B1%DB%8C.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.mraLpha-vpn.COM.&path=%2FTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%3Fed#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.94:8880

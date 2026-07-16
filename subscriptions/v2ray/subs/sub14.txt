@@ -1,7 +1,7 @@
 #profile-title: base64:8J+GkyBHaXRIdWI6TWF0aW5HaGFuYWJyaSB8IFN1YjE0
 #subscription-userinfo: upload=30; download=30; total=10737418240000000; expire=2546249531
-#profile-web-page-url: https://github.com/MatinGhanbari/v2ray-configs
-#support-url: https://github.com/MatinGhanbari/v2ray-configs
+#profile-web-page-url: https://github.com/zoxine/v2
+#support-url: https://github.com/zoxine/v2
 #profile-update-interval: 1
 vless://4337e327-c77e-4ae3-a376-0374fb82eca1@45.67.215.44:2096?security=tls&sni=Join-Channel-Te1egram-EiiiM.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.44:2096
 vless://4ca5583d-c326-4047-8465-5d30fd7c978b@185.79.158.145:8220?security=none&type=tcp&host=---@External\_Net---@External\_Net---@External\_Net---@External\_Net---@External\_Net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.79.158.145:8220

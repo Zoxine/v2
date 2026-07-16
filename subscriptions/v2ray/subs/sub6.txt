@@ -1,7 +1,7 @@
 #profile-title: base64:8J+GkyBHaXRIdWI6TWF0aW5HaGFuYWJyaSB8IFN1YjY=
 #subscription-userinfo: upload=30; download=30; total=10737418240000000; expire=2546249531
-#profile-web-page-url: https://github.com/MatinGhanbari/v2ray-configs
-#support-url: https://github.com/MatinGhanbari/v2ray-configs
+#profile-web-page-url: https://github.com/zoxine/v2
+#support-url: https://github.com/zoxine/v2
 #profile-update-interval: 1
 vless://f9d28482-a8eb-4c6b-8575-596579979bf9@37.27.252.57:2025?security=reality&sni=stackoverflow.com&type=xhttp&path=%2FAS&fp=chrome&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#🔒 VL-XHTTP-RLT 🇫🇮 FI-37.27.252.57:2025
 vless://dfa25b43-edf2-99e4-c3b0-1aa7c9ccaa96@138.199.225.185:1152?security=reality&flow=xtls-rprx-vision&sni=www.stackoverflow.com&type=tcp&fp=chrome&pbk=EsdPQG7EdQ6yCid_OtlMfCDIRTnmFZ_ujpKbaqOiCT4&sid=4374d295a4f9dd83#🔒 VL-TCP-RLT 🇩🇪 DE-138.199.225.185:1152

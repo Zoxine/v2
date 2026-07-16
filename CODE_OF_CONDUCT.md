@@ -1,6 +1,6 @@
 # Contributor Covenant Code of Conduct
 
-[فارسی](https://github.com/MatinGhanbari/v2ray-configs/blob/main/docs/CODE_OF_CONDUCT/CODE_OF_CONDUCT.fa.md) | [中文](https://github.com/MatinGhanbari/v2ray-configs/blob/main/docs/CODE_OF_CONDUCT/CODE_OF_CONDUCT.zh.md)
+[فارسی](https://github.com/zoxine/v2/blob/main/docs/CODE_OF_CONDUCT/CODE_OF_CONDUCT.fa.md) | [中文](https://github.com/zoxine/v2/blob/main/docs/CODE_OF_CONDUCT/CODE_OF_CONDUCT.zh.md)
 
 ## Our Pledge
 
@@ -127,4 +127,4 @@ enforcement ladder](https://github.com/mozilla/diversity).
 
 For answers to common questions about this code of conduct, see the FAQ at
 https://www.contributor-covenant.org/faq. Translations are available at
-https://www.contributor-covenant.org/translations. 
+https://www.contributor-covenant.org/translations.
