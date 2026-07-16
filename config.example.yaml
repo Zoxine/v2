@@ -1,0 +1,25 @@
+telegram:
+  token: "${V2AGENT_TELEGRAM_TOKEN}"
+  allowed_user_ids: [123456789]
+  flush_debounce_seconds: 10
+
+checker:
+  binary_path: "v2ray-checker"
+  timeout_seconds: 15
+  workers: 5
+  sort_speed: true
+
+github:
+  token: "${V2AGENT_GITHUB_TOKEN}"
+  owner: "Zoxine"
+  repo: "v2"
+  branch: "main"
+  files:
+    - path: "src/contents/fixed-v2ray"
+      mode: "all"
+    - path: "src/contents/fixed-filtered"
+      mode: "per-protocol"
+  commit_message: "feat: add static VLESS/VMESS configs to fixed content files"
+
+dry_run: false
+verbose: false

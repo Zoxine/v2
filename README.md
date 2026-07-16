@@ -4,8 +4,8 @@
 [![Deploy static content to Pages](https://img.shields.io/github/actions/workflow/status/MatinGhanbari/v2ray-configs/static.yml?branch=main&style=for-the-badge&label=Deploy%20static%20content%20to%20Pages
 )](https://github.com/MatinGhanbari/v2ray-configs/actions/workflows/static.yml)
 
-![Last Updated](https://img.shields.io/github/last-commit/MatinGhanbari/v2ray-configs?style=for-the-badge) 
-[![MIT](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](https://lbesson.mit-license.org/) 
+![Last Updated](https://img.shields.io/github/last-commit/MatinGhanbari/v2ray-configs?style=for-the-badge)
+[![MIT](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](https://lbesson.mit-license.org/)
 ![Size](https://img.shields.io/github/repo-size/MatinGhanbari/v2ray-configs?style=for-the-badge)
 [![Stars](https://img.shields.io/github/stars/MatinGhanbari/v2ray-configs?style=for-the-badge&label=Stars%20⭐)](https://github.com/MatinGhanbari/v2ray-configs/stargazers)
 
@@ -82,23 +82,23 @@ https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions
 ```
 
 ### ⛓️ By Protocol Subscriptions
-- **Hy2** **(Recommended)**: 
+- **Hy2** **(Recommended)**:
 ```
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/hysteria2.txt
 ```
-- **VMess**: 
+- **VMess**:
 ```
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/vmess.txt
 ```
-- **VLess**: 
+- **VLess**:
 ```
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/vless.txt
 ```
-- **Trojan**: 
+- **Trojan**:
 ```
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/trojan.txt
 ```
-- **SS**: 
+- **SS**:
 ```
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/ss.txt
 ```
@@ -114,6 +114,10 @@ https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions
 ## 📱 V2ray Clients
 - [Hiddify App](https://github.com/hiddify/hiddify-app)
 - [Nekoray](https://github.com/MatsuriDayo/nekoray)
+
+## 🤖 V2 Agent CLI
+
+This repository includes a Go CLI that validates forwarded `vless://` / `vmess://` configs via Telegram and publishes working entries to the fixed content files through the GitHub Contents API. See [AGENT.md](AGENT.md) for setup and usage.
 
 ## ✍️ Contributing
 If you have a V2ray configuration file that you would like to contribute to this repository, simply create a new pull request and we will review it.
