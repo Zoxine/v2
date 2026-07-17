@@ -1,13 +1,13 @@
 # ♾️ Free V2ray Configurations For All
-[![Update V2Ray Configs](https://img.shields.io/github/actions/workflow/status/MatinGhanbari/v2ray-configs/update-configs.yml?branch=main&style=for-the-badge&label=Update%20V2Ray%20Configs
+[![Update V2Ray Configs](https://img.shields.io/github/actions/workflow/status/zoxine/v2/update-configs.yml?branch=main&style=for-the-badge&label=Update%20V2Ray%20Configs
 )](https://github.com/zoxine/v2/actions/workflows/update-configs.yml)
-[![Deploy static content to Pages](https://img.shields.io/github/actions/workflow/status/MatinGhanbari/v2ray-configs/static.yml?branch=main&style=for-the-badge&label=Deploy%20static%20content%20to%20Pages
+[![Deploy static content to Pages](https://img.shields.io/github/actions/workflow/status/zoxine/v2/static.yml?branch=main&style=for-the-badge&label=Deploy%20static%20content%20to%20Pages
 )](https://github.com/zoxine/v2/actions/workflows/static.yml)
 
-![Last Updated](https://img.shields.io/github/last-commit/MatinGhanbari/v2ray-configs?style=for-the-badge)
+![Last Updated](https://img.shields.io/github/last-commit/zoxine/v2?style=for-the-badge)
 [![MIT](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](https://lbesson.mit-license.org/)
-![Size](https://img.shields.io/github/repo-size/MatinGhanbari/v2ray-configs?style=for-the-badge)
-[![Stars](https://img.shields.io/github/stars/MatinGhanbari/v2ray-configs?style=for-the-badge&label=Stars%20⭐)](https://github.com/zoxine/v2/stargazers)
+![Size](https://img.shields.io/github/repo-size/zoxine/v2?style=for-the-badge)
+[![Stars](https://img.shields.io/github/stars/zoxine/v2?style=for-the-badge&label=Stars%20⭐)](https://github.com/zoxine/v2/stargazers)
 
 <div align="left">
   <details>
@@ -58,13 +58,13 @@ Choose either method:
 ### 🔗 All Subscriptions
 - All Protocols [+7500 configs]:
 ```
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt
+https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/v2ray/all_sub.txt
 ```
 
 ### ♾️ Super Subscription
 - The best configs over all configs by testing results:
 ```
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/super-sub.txt
+https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/v2ray/super-sub.txt
 ```
 
 ### 👨‍🚀 Splitted Subscriptions
@@ -73,39 +73,39 @@ https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions
 
     **You can change sub id from 1 to 39.** Example:
 ```
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/subs/sub1.txt
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/subs/sub2.txt
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/subs/sub3.txt
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/subs/sub4.txt
+https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/v2ray/subs/sub1.txt
+https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/v2ray/subs/sub2.txt
+https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/v2ray/subs/sub3.txt
+https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/v2ray/subs/sub4.txt
 ...
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/subs/sub39.txt
+https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/v2ray/subs/sub39.txt
 ```
 
 ### ⛓️ By Protocol Subscriptions
 - **Hy2** **(Recommended)**:
 ```
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/hysteria2.txt
+https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/filtered/subs/hysteria2.txt
 ```
 - **VMess**:
 ```
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/vmess.txt
+https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/filtered/subs/vmess.txt
 ```
 - **VLess**:
 ```
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/vless.txt
+https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/filtered/subs/vless.txt
 ```
 - **Trojan**:
 ```
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/trojan.txt
+https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/filtered/subs/trojan.txt
 ```
 - **SS**:
 ```
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/ss.txt
+https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/filtered/subs/ss.txt
 ```
 
 
 ## Stats
-[![Stars](https://starchart.cc/MatinGhanbari/v2ray-configs.svg?variant=adaptive)](https://github.com/zoxine/v2/stargazers)
+[![Stars](https://starchart.cc/zoxine/v2.svg?variant=adaptive)](https://github.com/zoxine/v2/stargazers)
 
 ## Activity
 [![Activity](https://repobeats.axiom.co/api/embed/381408388d06985f0df2e3a83b1afcd9b3d0a696.svg "Repobeats analytics image")](#)
@@ -123,7 +123,7 @@ This repository includes a Go CLI that validates forwarded `vless://` / `vmess:/
 If you have a V2ray configuration file that you would like to contribute to this repository, simply create a new pull request and we will review it.
 
 ## 📝 License
-This repository is licensed under the MIT license. See [LICENSE](https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/LICENSE) for more information.
+This repository is licensed under the MIT license. See [LICENSE](https://raw.githubusercontent.com/zoxine/v2/main/LICENSE) for more information.
 
 ## 🤍 Special Thanks To
 [@MrPooyaX](https://github.com/MrPooyaX)

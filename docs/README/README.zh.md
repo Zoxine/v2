@@ -3,8 +3,8 @@
 
 [English](https://github.com/zoxine/v2/blob/main/README.md) | [فارسی](https://github.com/zoxine/v2/blob/main/docs/README/README.fa.md)
 
-[![Stars](https://img.shields.io/github/stars/MatinGhanbari/v2ray-configs?style=flat-square)](https://github.com/zoxine/v2/stargazers)
-![Last Updated](https://img.shields.io/github/last-commit/MatinGhanbari/v2ray-configs?style=flat-square) [![MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://lbesson.mit-license.org/) ![Size](https://img.shields.io/github/repo-size/MatinGhanbari/v2ray-configs?style=flat-square)
+[![Stars](https://img.shields.io/github/stars/zoxine/v2?style=flat-square)](https://github.com/zoxine/v2/stargazers)
+![Last Updated](https://img.shields.io/github/last-commit/zoxine/v2?style=flat-square) [![MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://lbesson.mit-license.org/) ![Size](https://img.shields.io/github/repo-size/zoxine/v2?style=flat-square)
 
 ## ✨ 主要特性
 - 多协议兼容 (VMess, VLESS, Trojan, Shadowsocks, SSR, TUIC, Hysteria2, Warp)
@@ -21,7 +21,7 @@
 ### 🔗 所有订阅
 - 所有协议 [+7500 配置]：
 ```
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt
+https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/v2ray/all_sub.txt
 ```
 
 
@@ -30,38 +30,38 @@ https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions
 
     **订阅 ID 可从 1 更改为 39。** 例如：
 ```
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/subs/sub1.txt
+https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/v2ray/subs/sub1.txt
 ```
 
 
 ### ⛓️ 按协议订阅
 - VMess:
 ```
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/vmess.txt
+https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/filtered/subs/vmess.txt
 ```
 - VLess:
 ```
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/vless.txt
+https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/filtered/subs/vless.txt
 ```
 - Trojan:
 ```
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/trojan.txt
+https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/filtered/subs/trojan.txt
 ```
 - SSR:
 ```
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/ssr.txt
+https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/filtered/subs/ssr.txt
 ```
 - SS:
 ```
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/vmess.txt
+https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/filtered/subs/vmess.txt
 ```
 - Tuic:
 ```
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/tuic.txt
+https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/filtered/subs/tuic.txt
 ```
 - Hy2:
 ```
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/hy2.txt
+https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/filtered/subs/hy2.txt
 ```
 
 ## 📲 客户端配置
@@ -72,7 +72,7 @@ https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions
 如果您有 V2ray 配置文件并希望贡献到此仓库，只需创建一个新的 Pull Request，我们会进行审核。
 
 ## 📝 许可证
-本仓库采用 MIT 许可证。更多信息请参阅 [LICENSE](https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/LICENSE)。
+本仓库采用 MIT 许可证。更多信息请参阅 [LICENSE](https://raw.githubusercontent.com/zoxine/v2/main/LICENSE)。
 
 ## 🙋‍♀️ 联系我们
 如有任何问题或建议，请通过讨论区与我们联系。

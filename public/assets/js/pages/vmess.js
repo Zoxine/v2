@@ -1,5 +1,5 @@
 sub_url =
-  "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/vmess.txt";
+  "https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/filtered/subs/vmess.txt";
 
 get_configs((isBase64 = true));
 get_contributors();
@@ -42,7 +42,7 @@ if (isMobileDevice()) {
   <div class="sub-title" style="width: 30%">⚡ SubLink :</div>
   <div
     class="sub-link"
-    onclick="copyText('https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/subs/vmess.txt')"
+    onclick="copyText('https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/v2ray/subs/vmess.txt')"
   >
     .../subscriptions/v2ray/subs/vmess.txt
   </div>
@@ -52,9 +52,9 @@ if (isMobileDevice()) {
   <div class="sub-title">⚡ SubLink :</div>
   <div
     class="sub-link"
-    onclick="copyText('https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/subs/vmess.txt')"
+    onclick="copyText('https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/v2ray/subs/vmess.txt')"
   >
-    https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/subs/vmess.txt
+    https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/v2ray/subs/vmess.txt
   </div>
 `;
 }

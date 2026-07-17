@@ -1,5 +1,5 @@
 contributors_url =
-  "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/refs/heads/main/public/assets/data/contributors.json";
+  "https://raw.githubusercontent.com/zoxine/v2/refs/heads/main/public/assets/data/contributors.json";
 
 configLines = [];
 

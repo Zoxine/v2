@@ -3,8 +3,8 @@
 
 [English](https://github.com/zoxine/v2/blob/main/README.md) | [中文](https://github.com/zoxine/v2/blob/main/docs/README/README.zh.md)
 
-[![Stars](https://img.shields.io/github/stars/MatinGhanbari/v2ray-configs?style=flat-square)](https://github.com/zoxine/v2/stargazers)
-![Last Updated](https://img.shields.io/github/last-commit/MatinGhanbari/v2ray-configs?style=flat-square) [![MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://lbesson.mit-license.org/) ![Size](https://img.shields.io/github/repo-size/MatinGhanbari/v2ray-configs?style=flat-square)
+[![Stars](https://img.shields.io/github/stars/zoxine/v2?style=flat-square)](https://github.com/zoxine/v2/stargazers)
+![Last Updated](https://img.shields.io/github/last-commit/zoxine/v2?style=flat-square) [![MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://lbesson.mit-license.org/) ![Size](https://img.shields.io/github/repo-size/zoxine/v2?style=flat-square)
 
 ## ✨ ویژگی‌های کلیدی
 - پشتیبانی از چندین پروتکل (VMess, VLESS, Trojan, Shadowsocks, SSR, TUIC, Hysteria2, Warp)
@@ -21,44 +21,44 @@
 ### 🔗 تمامی اشتراک‌ها
 - تمام پروتکل‌ها [+7500 پیکربندی]:
 ```
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt
+https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/v2ray/all_sub.txt
 ```
 ### 👨‍🚀 اشتراک‌های تقسیم‌شده
 - اشتراک‌های تقسیم‌شده [۲۰۰ پیکربندی در هر اشتراک]:
 
     **می‌توانید شناسه اشتراک را از ۱ تا ۳۹ تغییر دهید.** مثال:
 ```
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/subs/sub1.txt
+https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/v2ray/subs/sub1.txt
 ```
 
 ### ⛓️ اشتراک‌های بر اساس پروتکل
 - VMess:
 ```
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/vmess.txt
+https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/filtered/subs/vmess.txt
 ```
 - VLess:
 ```
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/vless.txt
+https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/filtered/subs/vless.txt
 ```
 - Trojan:
 ```
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/trojan.txt
+https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/filtered/subs/trojan.txt
 ```
 - SSR:
 ```
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/ssr.txt
+https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/filtered/subs/ssr.txt
 ```
 - SS:
 ```
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/vmess.txt
+https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/filtered/subs/vmess.txt
 ```
 - Tuic:
 ```
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/tuic.txt
+https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/filtered/subs/tuic.txt
 ```
 - Hy2:
 ```
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/hy2.txt
+https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/filtered/subs/hy2.txt
 ```
 
 
@@ -70,7 +70,7 @@ https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions
 اگر فایل پیکربندی V2ray دارید که می‌خواهید به این مخزن اضافه کنید، یک Pull Request جدید ایجاد کنید تا بررسی شود.
 
 ## 📝 مجوز
-این مخزن تحت مجوز MIT منتشر شده است. برای اطلاعات بیشتر [LICENSE](https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/LICENSE) را ببینید.
+این مخزن تحت مجوز MIT منتشر شده است. برای اطلاعات بیشتر [LICENSE](https://raw.githubusercontent.com/zoxine/v2/main/LICENSE) را ببینید.
 
 ## 🙋‍♀️ تماس با ما
 اگر سوال یا نظری دارید، از طریق بخش بحث‌ها با ما در تماس باشید.

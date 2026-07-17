@@ -1,5 +1,5 @@
 sub_url =
-  "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/super-sub.txt";
+  "https://raw.githubusercontent.com/zoxine/v2/main/subscriptions/v2ray/super-sub.txt";
 
 get_configs((isBase64 = true));
 get_contributors();
