@@ -14,26 +14,26 @@
     <summary >🌐 Language</summary>
     <div>
       <div align="left">
-        <p><a href="https://openaitx.github.io/view.html?user=MatinGhanbari&project=v2ray-configs&lang=en">English</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=MatinGhanbari&project=v2ray-configs&lang=zh-CN">简体中文</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=MatinGhanbari&project=v2ray-configs&lang=zh-TW">繁體中文</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=MatinGhanbari&project=v2ray-configs&lang=ja">日本語</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=MatinGhanbari&project=v2ray-configs&lang=ko">한국어</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=MatinGhanbari&project=v2ray-configs&lang=hi">हिन्दी</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=MatinGhanbari&project=v2ray-configs&lang=th">ไทย</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=MatinGhanbari&project=v2ray-configs&lang=fr">Français</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=MatinGhanbari&project=v2ray-configs&lang=de">Deutsch</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=MatinGhanbari&project=v2ray-configs&lang=es">Español</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=MatinGhanbari&project=v2ray-configs&lang=it">Itapano</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=MatinGhanbari&project=v2ray-configs&lang=ru">Русский</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=MatinGhanbari&project=v2ray-configs&lang=pt">Português</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=MatinGhanbari&project=v2ray-configs&lang=nl">Nederlands</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=MatinGhanbari&project=v2ray-configs&lang=pl">Polski</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=MatinGhanbari&project=v2ray-configs&lang=ar">العربية</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=MatinGhanbari&project=v2ray-configs&lang=fa">فارسی</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=MatinGhanbari&project=v2ray-configs&lang=tr">Türkçe</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=MatinGhanbari&project=v2ray-configs&lang=vi">Tiếng Việt</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=MatinGhanbari&project=v2ray-configs&lang=id">Bahasa Indonesia</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Zoxine&project=v2&lang=en">English</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Zoxine&project=v2&lang=zh-CN">简体中文</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Zoxine&project=v2&lang=zh-TW">繁體中文</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Zoxine&project=v2&lang=ja">日本語</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Zoxine&project=v2&lang=ko">한국어</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Zoxine&project=v2&lang=hi">हिन्दी</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Zoxine&project=v2&lang=th">ไทย</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Zoxine&project=v2&lang=fr">Français</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Zoxine&project=v2&lang=de">Deutsch</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Zoxine&project=v2&lang=es">Español</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Zoxine&project=v2&lang=it">Itapano</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Zoxine&project=v2&lang=ru">Русский</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Zoxine&project=v2&lang=pt">Português</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Zoxine&project=v2&lang=nl">Nederlands</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Zoxine&project=v2&lang=pl">Polski</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Zoxine&project=v2&lang=ar">العربية</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Zoxine&project=v2&lang=fa">فارسی</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Zoxine&project=v2&lang=tr">Türkçe</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Zoxine&project=v2&lang=vi">Tiếng Việt</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Zoxine&project=v2&lang=id">Bahasa Indonesia</a></p>
       </div>
     </div>
   </details>
