@@ -3,22 +3,22 @@ import base64
 
 class ContentManager:
     def __init__(self):
-        self.default_supersub_title = "4pm+77iPIGIybi5pci92MnJheS1jb25mIHwgU3VwZXJTdWI="
+        self.default_supersub_title = "Wm94aW5lQGdpdGh1Yi5pby92MiB8IFN1cGVyU3ViCg=="
 
-        self.default_v2ray_title = "8J+GkyBiMm4uaXIvdjJyYXktY29uZiB8IGFsbCDwn6aV"
-        self.default_v2ray_sub_title = "4pu177iPIGIybi5pci92MnJheS1jb25mIHwgc3Vi"
+        self.default_v2ray_title = "Wm94aW5lQGdpdGh1Yi5pby92MiB8IGFsbCDwn6aVCg=="
+        self.default_v2ray_sub_title = "4pu177iPIHpveGluLmdpdGh1Yi5pby92MiB8IHN1YiUK"
 
-        self.default_warp_title = "8J+XvSBiMm4uaXIvdjJyYXktY29uZiB8IHdhcnAg8J+MsQ=="
+        self.default_warp_title = "8J+XvSBab3hpbi5naXRodWIuaW8vdjIgfCB3YXJwIPCfjLEK"
 
         self.filter_titles = {
-            "vmess": "8J+QiCBiMm4uaXIvdjJyYXktY29uZiB8IHZtZXNzIPCfmI8=",
-            "vless": "8J+mlSBiMm4uaXIvdjJyYXktY29uZiB8IHZsZXNzIPCfmI8=",
-            "trojan": "8J+QjiBiMm4uaXIvdjJyYXktY29uZiB8IHRyb2phbiDwn5iP",
-            "ss": "8J+QhSBiMm4uaXIvdjJyYXktY29uZiB8IHNzIPCfmI8=",
-            "ssr": "8J+QhSBiMm4uaXIvdjJyYXktY29uZiB8IHNzciDwn5iP",
-            "tuic": "8J+QsyBiMm4uaXIvdjJyYXktY29uZiB8IHR1aWMg8J+Yjw==",
-            "hy2": "8J+mniBiMm4uaXIvdjJyYXktY29uZiB8IGh5MiDwn5iP",
-            "hysteria2": "8J+mniBiMm4uaXIvdjJyYXktY29uZiB8IGh5MiDwn5iP"
+            "vmess": "8J+QiCBab3hpbmUuZ2l0aHViLmlvL3YyIHwgdm1lc3Mg8J+Yjw==",
+            "vless": "8J+mlSB6b3hpbmUuZ2l0aHViLmlvL3YyIHwgdmxlc3Mg8J+Yjw==",
+            "trojan": "8J+QjiBab3hpbi5naXRodWIuaW8vdjIgfCB0cm9qYW4g8J+Yjw==",
+            "ss": "8J+QhSB6b3hpbmUuZ2l0aHViLmlvL3YyIHwgc3Mg8J+Yjw==",
+            "ssr": "8J+QhSB6b3hpbmUuZ2l0aHViLmlvL3YyIHwgc3NyIPCfmI8=",
+            "tuic": "8J+QsyBab3hpbmUuZ2l0aHViLmlvL3YyIHwgdHVpYyDwn5iP",
+            "hy2": "PDAwMDFmOTllPiBab3hpbmUuZ2l0aHViLmlvL3YyIHwgaHkyIPCfmI8=",
+            "hysteria2": "8J+mniBab3hpbmUuZ2l0aHViLmlvL3YyIHwgaHkyIPCfmI8="
         }
 
     @staticmethod
